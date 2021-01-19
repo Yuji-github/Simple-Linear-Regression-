@@ -1,3 +1,3 @@
 # Simple-Linear-Regression-
-Machine learning <break/> 
+Machine learning <break/>
 Simple Linear Regression <break/>
